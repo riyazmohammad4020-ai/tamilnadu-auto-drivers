@@ -1,0 +1,27 @@
+{
+  "name": "Tamil Nadu Auto Drivers",
+  "short_name": "Auto Drivers",
+  "description": "🚕 Tamil Nadu Auto Drivers 🛣 – Emoji-rich UI for distance, fuel, and fare calculations with auto-rickshaw themed background.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#22c55e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/auto.svg",
+      "sizes": "96x64",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "assets/road-pattern.svg",
+      "sizes": "480x480",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "assets/map-grid.svg",
+      "sizes": "360x360",
+      "type": "image/svg+xml"
+    }
+  ]
+}
